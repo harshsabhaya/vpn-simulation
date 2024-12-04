@@ -1,0 +1,7 @@
+Flask==2.3.2
+gunicorn==21.0.0
+requests==2.31.0
+ipaddress
+pytest
+pytest-flask
+flake8

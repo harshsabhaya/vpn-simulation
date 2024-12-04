@@ -1,0 +1,89 @@
+2024-12-02 14:15:56: [*] Server started
+2024-12-02 14:15:56: [*] Listening on 127.0.0.1: 9999
+2024-12-02 14:17:18: [*] Server stopped
+2024-12-02 17:04:15: [*] Server started
+2024-12-02 17:04:15: [*] Listening on 127.0.0.1: 9999
+2024-12-02 17:08:41: [*] Server started
+2024-12-02 17:08:41: [*] Listening on 127.1.1.1: 9999
+2024-12-02 17:12:26: [*] Server started
+2024-12-02 17:12:26: [*] Listening on 127.1.1.1: 9999
+2024-12-02 17:18:47: [*] Server started
+2024-12-02 17:18:47: [*] Listening on 127.1.1.1: 9999
+2024-12-02 17:20:04: [*] Server started
+2024-12-02 17:20:04: [*] Listening on 127.1.1.1: 9999
+2024-12-02 17:29:41: [*] Server started
+2024-12-02 17:29:41: [*] Listening on 127.1.1.1: 9999
+2024-12-03 09:28:34: [*] Server started
+2024-12-03 09:28:34: [*] Listening on 127.1.1.1: 9999
+2024-12-03 09:43:43: [*] User 'Harsh' requested 'Hello' to '127.0.0.10:8888'
+2024-12-03 09:43:43: [Client -> Server] Hello
+2024-12-03 09:48:20: [*] Checksum error, packet discarted
+2024-12-03 09:54:07: [*] Checksum error, packet discarted
+2024-12-03 09:54:07: [*] Checksum error, packet discarted
+2024-12-03 09:54:17: [*] Checksum error, packet discarted
+2024-12-03 09:54:17: [*] Checksum error, packet discarted
+2024-12-03 09:54:31: [*] Checksum error, packet discarted
+2024-12-03 09:54:31: [*] Checksum error, packet discarted
+2024-12-03 10:18:31: [*] Server started
+2024-12-03 10:18:31: [*] Listening on 127.1.1.1: 9999
+2024-12-03 10:27:02: [*] User 'Harsh' requested 'hhhhh' to '127.0.0.10:8888'
+2024-12-03 10:27:02: [*] Invalid user: Harsh
+2024-12-03 10:27:17: [*] User 'Harsh' requested 'hhhh' to '127.0.0.10:8888'
+2024-12-03 10:27:17: [*] Invalid user: Harsh
+2024-12-03 10:28:42: [*] User 'Harsh' requested 'hhhhh' to '127.0.0.10:8888'
+2024-12-03 10:28:42: [Client -> Server] hhhhh
+2024-12-03 10:29:08: [*] User 'Harsh' requested 'hellooooooo' to '127.0.0.10:8888'
+2024-12-03 10:29:08: [Client -> Server] hellooooooo
+2024-12-03 10:30:50: [*] User 'Harsh' requested 'hellooooooo' to '127.0.0.10:8888'
+2024-12-03 10:30:50: [Client -> Server] hellooooooo
+2024-12-03 10:31:15: [*] User 'Harsh' requested 'hiiiiiiiiiiiiiiiiii' to '127.0.0.10:8888'
+2024-12-03 10:31:15: [Client -> Server] hiiiiiiiiiiiiiiiiii
+2024-12-03 10:31:56: [*] User 'Harsh' requested 'hiiii
+
+' to '127.0.0.10:8888'
+2024-12-03 10:31:56: [Client -> Server] hiiii
+Harsh
+
+2024-12-03 10:33:16: [*] User 'Juan' requested 'hi there' to '127.0.0.10:8888'
+2024-12-03 10:33:16: [Client -> Server] hi there
+2024-12-03 10:55:24: [*] Server stopped
+2024-12-03 10:56:05: [*] ServerHarshrted
+2024-12-03 10:56:05: [*] Listening on 127.1.1.1: 9999
+2024-12-03 10:57:13: [*] User 'Juan' requested 'Hello World' to '127.0.0.10:8888'
+2024-12-03 10:57:13: [Client -> Server] Hello World
+2024-12-03 10:58:02: [*] Server stopped
+2024-12-03 10:58:17: [*] User added succesfully
+IP: 127.1.1.4
+VLAN: 127.12.34.45
+2024-12-03 19:00:56: [*] Server started
+2024-12-03 19:00:56: [*] Listening on 127.1.1.1: 9999
+2024-12-03 19:00:59: [*] Checksum error, packet discarted
+2024-12-03 19:01:04: [*] Checksum error, packet discarted
+2024-12-03 19:01:09: [*] Checksum error, packet discarted
+2024-12-03 19:01:15: [*] Checksum error, packet discarted
+2024-12-03 19:01:19: [*] Checksum error, packet discarted
+2024-12-03 19:01:24: [*] Checksum error, packet discarted
+2024-12-03 19:01:29: [*] Checksum error, packet discarted
+2024-12-03 19:01:29: [*] Checksum error, packet discarted
+2024-12-03 19:01:30: [*] Checksum error, packet discarted
+2024-12-03 19:01:34: [*] Checksum error, packet discarted
+2024-12-03 19:01:39: [*] Checksum error, packet discarted
+2024-12-03 19:02:02: [*] Checksum error, packet discarted
+2024-12-03 19:02:02: [*] Checksum error, packet discarted
+2024-12-03 19:02:04: [*] Checksum error, packet discarted
+2024-12-03 19:02:05: [*] Checksum error, packet discarted
+2024-12-03 19:02:05: [*] Checksum error, packet discarted
+2024-12-03 19:02:13: [*] Checksum error, packet discarted
+2024-12-03 19:02:13: [*] Checksum error, packet discarted
+2024-12-03 19:02:13: [*] Checksum error, packet discarted
+2024-12-03 19:02:13: [*] Checksum error, packet discarted
+2024-12-03 19:02:13: [*] Checksum error, packet discarted
+2024-12-03 19:02:13: [*] Checksum error, packet discarted
+2024-12-03 19:02:13: [*] Checksum error, packet discarted
+2024-12-03 19:02:13: [*] Checksum error, packet discarted
+2024-12-03 19:02:13: [*] ChecksHarshrror, packet discarted
+2024-12-03 19:02:13: [*] Checksum error, packet discarted
+2024-12-03 19:15:54: [*] User 'Harsh' requested 'Hello' to '127.0.0.10:8888'
+2024-12-03 19:15:54: [Client -> Server] Hello
+2024-12-03 19:18:28: [*] User 'Juan' requested 'This is VPN simulation' to '127.0.0.10:8888'
+2024-12-03 19:18:28: [Client -> Server] This is VPN simulation

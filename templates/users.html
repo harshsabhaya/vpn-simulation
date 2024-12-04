@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Manage Users</title>
+  </head>
+  <body>
+    <h1>Manage Users</h1>
+    <form method="POST">
+      <input type="text" name="username" placeholder="Username" required />
+      <input type="text" name="password" placeholder="Password" required />
+      <input type="text" name="vlan" placeholder="VLAN" required />
+      <button type="submit">Add User</button>
+    </form>
+    <h2>Existing Users</h2>
+    <ul>
+      {% for user, password in users.items() %}
+      <li>{{ user }}: {{ password }}</li>
+      {% endfor %}
+    </ul>
+    <a href="/">Go Back</a>
+  </body>
+</html>
